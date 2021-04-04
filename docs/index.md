@@ -1,11 +1,23 @@
 
 
+<style type="text/css">
+	img{
+		border-radius: 100%;
+		overflow: hidden;
+		width: 120px;
+	}
+</style>
 
+
+<div  align="right"> 
+<img src="id.jpg" width="" height="">
+</div>
 
 
 # <small>Yuyang WANG</small> 
 
 [alwyuyang (at) gmail (dot) com](mailto:alwyuyang@gmail.com)
+
 
 <a href="https://github.com/yywangvr" >
   <i class="fa fa-github"> </i>
@@ -17,7 +29,7 @@
 <i class="fa fa-twitter"> </i>
 </a>
 
-
+I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized navigation techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
 
 
 
@@ -39,7 +51,9 @@
 <font size=2>
 - __PhD candidate__
 
-- Image institute , [Arts et metiers institute of technology](https://artsetmetiers.fr), France
+- [Image institute](http://institutimage.ensam.eu/homepage-institut-image-102267.kjsp?RH=1417091979616&RF=1417092040212) , [Arts et metiers institute of technology](https://artsetmetiers.fr), France
+- Keywords: Virtual reality (VR), Navigation/Locomotion, Interaction, Cybersickness, Cognitive Workload, Subjective Evaluation, Optimal Control, Data-driven Modeling, Deep Learning
+- Thesis: Intelligent navigation in virtual reality (Defense expected before October 2020)
 </font>
 
 
@@ -47,16 +61,18 @@
 <font size=2>
 - __Visiting PhD student__
 
-- Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), Karlsruhe Institute of Technology, Germany
+- Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany
+- Keywords: VR, Fuzzy Logic, User Modelling, Human Factors
 </font>
 
 `September 2015 - July 2017`
 <font size=2>
 - __Master on numerical methods in engineering__
 
-- International Centre for Numerical Methods in Engineering ([CIMNE](https://www.cimne.com)), Polytechnic University of Catalonia, Spain
-- Numerical methods including Finite Element Method, Advanced Discretation Methods, Numerical Methods for PDEs, Scientific Programming, *etc*.
-- Applications focus on Computational Structural Mechanics and Dynamics, Continuum Mechanics, Fluid mechanics and Dynamics, Forming Processes and Electromagnetism, *etc*. 
+- International Centre for Numerical Methods in Engineering ([CIMNE](https://www.cimne.com)), [Polytechnic University of Catalonia](https://www.upc.edu/en/homepage), Spain
+- Numerical methods including Finite Element Method, Advanced Discretation Methods, Numerical Methods for PDEs, Scientific Programming, *etc.*
+- Applications focus on Computational Structural Mechanics and Dynamics, Continuum Mechanics, Fluid mechanics and Dynamics, Forming Processes and Electromagnetism, *etc.*
+- Thesis: Development of a numberical model for the transport of dust 
 </font>
 
 `September 2011 - July 2015`
@@ -64,7 +80,7 @@
 -  __Bachelor of non-woven materials in engineering, *summa cum laude*__
 
 - College of Textile and Clothing Engineering, [Soochow University](https://www.suda.edu.cn/eng/), China
-- Main courses: Engineering Mechanics, Polymeric Chemistry & Physics, Textile Materials, Polymer Structure & Properties, Technology of Synthetic Fibers
+- Keywords: Engineering Mechanics, Polymeric Chemistry & Physics, Textile Materials, Polymer Structure & Properties, Technology of Synthetic Fibers
 - Thesis: intelligent Wearable Devices for Textile Sensory Evaluation
 </font>
 
@@ -108,7 +124,7 @@
 ##<small>Invited talk</small>
 <font size=2>
 	
-- Towards real-time evaluation of cyber-sickness in VR, April 2021, IEEE VR, Organizer of BoF session, [Online](https://ieeevr.org/2021/program/bofs/)
+- Towards real-time evaluation of cyber-sickness in VR, April 2021, IEEE VR, Session organizer for this birds of a feather, [Online](https://ieeevr.org/2021/program/bofs/)
 - Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
 </font>
@@ -118,9 +134,9 @@
 ##<small>Computer skills</small>
 <font size=2>
 
-- Language: C#, Python, Latex, Matlab, C++
-- Parallel computing framework using Open MPI, OpenMP, [Ray](https://ray.io) 
-- AI programming relying mainly on Tensorflow and Keras additional framework depending on the situation.
+- Language: C# (Unity3D), Python, Matlab, C++, Latex 
+- Parallel/Distributed computing framework using OpenMP, Open MPI, [Ray](https://ray.io) 
+- AI programming relying mainly on Tensorflow and Keras
 </font>
 ----
 
