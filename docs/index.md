@@ -1,24 +1,49 @@
 
 
+<!-- 设置分栏的方法来自于：https://www.v2ex.com/t/132636 -->
+
 <style type="text/css">
 	img{
 		border-radius: 100%;
 		overflow: hidden;
-		width: 120px;
+		width: 150px;
 	}
 </style>
 
-
+<!-- 注释
 <div  align="right"> 
 <img src="id.jpg" width="" height="">
 </div>
-
+-->
 
 # <small>Yuyang WANG</small> 
 
+
+<div>
+<div style="float:left">
+	<a href="mailto:alwyuyang@gmail.com">alwyuyang (at) gmail (dot) com</a>
+	<br>
+	<a href="https://github.com/yywangvr" >
+	  <i class="fa fa-github"> </i>
+	</a>
+	<a href=" https://www.linkedin.com/in/yuyang01/" >
+	 <i class="fa fa-linkedin" aria-hidden="true"></i>
+	</a>
+	<a href="https://twitter.com/yyuwang_" >
+	<i class="fa fa-twitter"> </i>
+	</a>
+   </br>		
+</div>
+
+<div style="float:right">	
+<img src="id.jpg" width="" height="">
+</div>
+
+</div>
+
+
+<!-- 注释
 [alwyuyang (at) gmail (dot) com](mailto:alwyuyang@gmail.com)
-
-
 <a href="https://github.com/yywangvr" >
   <i class="fa fa-github"> </i>
 </a>
@@ -28,8 +53,10 @@
 <a href="https://twitter.com/yyuwang_" >
 <i class="fa fa-twitter"> </i>
 </a>
+-->
 
-I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized navigation techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
+<br>
+<br>I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized navigation techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
 
 
 
@@ -154,10 +181,6 @@ I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabl
 <script src="https://bibbase.org/service/mendeley/4b66b327-35ad-3956-a9a2-307331dd9988?jsonp=1?&owner=Wang,Yuyang&theme=default&fullnames=0"></script>
 
 ----
-
-
-
-<!-- 设置分栏的方法来自于：https://www.v2ex.com/t/132636 -->
 
 
 
