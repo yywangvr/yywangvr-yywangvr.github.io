@@ -68,6 +68,7 @@
 - Cybersickness in virtual reality
 - Computer-human interaction
 - Cognitive systems
+
 </font>
 
 ----
@@ -80,7 +81,8 @@
 
 - [Image institute](http://institutimage.ensam.eu/homepage-institut-image-102267.kjsp?RH=1417091979616&RF=1417092040212) , [Arts et metiers institute of technology](https://artsetmetiers.fr), France
 - Keywords: virtual reality (VR), navigation/locomotion, interaction, cybersickness, cognitive workload, subjective evaluation, optimal control, data-driven modeling, deep learning
-- Thesis: Intelligent navigation in virtual reality (Defense expected before October 2020)
+- Thesis: Intelligent navigation in virtual reality (Defense expected before October 2021)
+
 </font>
 
 
@@ -90,6 +92,7 @@
 
 - Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany
 - Keywords: VR, interaction, fuzzy logic, user modelling, human factors
+
 </font>
 
 `September 2015 - July 2017`
@@ -100,6 +103,7 @@
 - Numerical methods including finite element method, advanced discretation methods, numerical methods for PDEs, domain decomposition and large scale computing, *etc.*
 - Applications focus on computational structural mechanics and dynamics, continuum mechanics, fluid mechanics and dynamics, forming processes and electromagnetism, *etc.*
 - Thesis: Development of a numberical model for the transport of dust 
+
 </font>
 
 `September 2011 - July 2015`
@@ -108,12 +112,13 @@
 
 - College of Textile and Clothing Engineering, [Soochow University](https://www.suda.edu.cn/eng/), China
 - Keywords: engineering mechanics, polymeric chemistry & physics, textile materials, polymer structure & properties, technology of synthetic fibers
-- Thesis: intelligent Wearable Devices for Textile Sensory Evaluation
+- Thesis: Intelligent wearable devices for textile sensory evaluation
+
 </font>
 
 ----
 
-##<small>Funding and Awards</small>
+##<small>Funding and awards</small>
 `October 2019 - September 2020`
 <font size=2>
 - __Scholarship from the French-German institute for the industry of future__
@@ -139,11 +144,12 @@
 
 
 
-##<small>Scientific Community Service</small>
+##<small>Community service</small>
 <font size=2>
 
 - Reviewer of international conferences: IEEE VR, IEEE ISMAR, ACM VRST
 - Reviewer of international journals: IEEE Transactions on Visualization and Computer Graphics, Textile Research Journal, Industria Textila Journal
+
 </font>
 
 ----
@@ -151,9 +157,10 @@
 ##<small>Invited talk</small>
 <font size=2>
 	
-- Towards real-time evaluation of cyber-sickness in VR, April 2021, IEEE VR, Session organizer for this birds of a feather (BoF), [Online](https://ieeevr.org/2021/program/bofs/)
+- Towards real-time evaluation of cyber-sickness in VR. April 2021, IEEE VR, Session organizer for this birds of a feather (BoF), [Online](https://ieeevr.org/2021/program/bofs/)
 - Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
+
 </font>
 
 ----
@@ -162,8 +169,9 @@
 <font size=2>
 
 - Language: C# (Unity3D), Python, Matlab, C++, Latex 
-- Parallel/Distributed computing framework using OpenMP, Open MPI, [Ray](https://ray.io) 
+- Parallel/distributed computing framework using OpenMP, Open MPI, [Ray](https://ray.io) 
 - AI programming relying mainly on Tensorflow and Keras
+
 </font>
 ----
 
@@ -172,13 +180,16 @@
 ##<small>Hobbies</small>
 <font size=2>
 
-- Piano, Badminton
+- Badminton and Chinese chess since childhood
+- Piano during confinement of Covid-19
+
 </font>
 
 ----
 
 ##<small>Publications</small>
-<script src="https://bibbase.org/service/mendeley/4b66b327-35ad-3956-a9a2-307331dd9988?jsonp=1?&owner=Wang,Yuyang&theme=default&fullnames=0"></script>
+<script src="https://bibbase.org/service/mendeley/4b66b327-35ad-3956-a9a2-307331dd9988?jsonp=1?&owner=Wang,Yuyang&theme=default&fullnames=0">
+</script>
 
 ----
 
