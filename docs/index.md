@@ -74,12 +74,12 @@
 
 
 ##<small>Education</small>
-`November 2017 - now`
+`November 2017 - Now `
 <font size=2>
 - __PhD candidate__
 
 - [Image institute](http://institutimage.ensam.eu/homepage-institut-image-102267.kjsp?RH=1417091979616&RF=1417092040212) , [Arts et metiers institute of technology](https://artsetmetiers.fr), France
-- Keywords: Virtual reality (VR), Navigation/Locomotion, Interaction, Cybersickness, Cognitive Workload, Subjective Evaluation, Optimal Control, Data-driven Modeling, Deep Learning
+- Keywords: virtual reality (VR), navigation/locomotion, interaction, cybersickness, cognitive workload, subjective evaluation, optimal control, data-driven modeling, deep learning
 - Thesis: Intelligent navigation in virtual reality (Defense expected before October 2020)
 </font>
 
@@ -89,7 +89,7 @@
 - __Visiting PhD student__
 
 - Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany
-- Keywords: VR, Fuzzy Logic, User Modelling, Human Factors
+- Keywords: VR, interaction, fuzzy logic, user modelling, human factors
 </font>
 
 `September 2015 - July 2017`
@@ -97,8 +97,8 @@
 - __Master on numerical methods in engineering__
 
 - International Centre for Numerical Methods in Engineering ([CIMNE](https://www.cimne.com)), [Polytechnic University of Catalonia](https://www.upc.edu/en/homepage), Spain
-- Numerical methods including Finite Element Method, Advanced Discretation Methods, Numerical Methods for PDEs, Scientific Programming, *etc.*
-- Applications focus on Computational Structural Mechanics and Dynamics, Continuum Mechanics, Fluid mechanics and Dynamics, Forming Processes and Electromagnetism, *etc.*
+- Numerical methods including finite element method, advanced discretation methods, numerical methods for PDEs, domain decomposition and large scale computing, *etc.*
+- Applications focus on computational structural mechanics and dynamics, continuum mechanics, fluid mechanics and dynamics, forming processes and electromagnetism, *etc.*
 - Thesis: Development of a numberical model for the transport of dust 
 </font>
 
@@ -107,7 +107,7 @@
 -  __Bachelor of non-woven materials in engineering, *summa cum laude*__
 
 - College of Textile and Clothing Engineering, [Soochow University](https://www.suda.edu.cn/eng/), China
-- Keywords: Engineering Mechanics, Polymeric Chemistry & Physics, Textile Materials, Polymer Structure & Properties, Technology of Synthetic Fibers
+- Keywords: engineering mechanics, polymeric chemistry & physics, textile materials, polymer structure & properties, technology of synthetic fibers
 - Thesis: intelligent Wearable Devices for Textile Sensory Evaluation
 </font>
 
@@ -151,7 +151,7 @@
 ##<small>Invited talk</small>
 <font size=2>
 	
-- Towards real-time evaluation of cyber-sickness in VR, April 2021, IEEE VR, Session organizer for this birds of a feather, [Online](https://ieeevr.org/2021/program/bofs/)
+- Towards real-time evaluation of cyber-sickness in VR, April 2021, IEEE VR, Session organizer for this birds of a feather (BoF), [Online](https://ieeevr.org/2021/program/bofs/)
 - Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
 </font>
