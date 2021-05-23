@@ -8,7 +8,7 @@ My research experience focuses primarily on theoretical contributions, and I sho
 ##<small>VR sickness prediction with LSTM</small> 
 Y. Wang, J.-R. Chardonnet, and F. Merienne, “VR Sickness Prediction for Navigation in Immersive Virtual Environments using a Deep Long Short Term Memory Model,” in 2019 IEEE VR, Mar. 2019, pp. 1874–1881.
 <div align="center">
-<img src="/media/autoencoder.pdf" width="600" height="auto">
+<img src="/media/autoencoder.jpg" width="600" height="auto">
 </div>
 
 ----
