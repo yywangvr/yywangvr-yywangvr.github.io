@@ -26,7 +26,7 @@
 	<a href="https://github.com/yywangvr" >
 	  <i class="fa fa-github"> </i>
 	</a>
-	<a href=" https://www.linkedin.com/in/yuyang01/" >
+	<a href=" https://www.linkedin.com/in/yywangvr/" >
 	 <i class="fa fa-linkedin" aria-hidden="true"></i>
 	</a>
 	<a href="https://twitter.com/yyuwang_" >
@@ -36,7 +36,7 @@
 </div>
 
 <div style="float:right">	
-<img src="id.jpg" width="" height="">
+<img src="./media/id.jpg" width="" height="">
 </div>
 
 </div>
@@ -47,7 +47,7 @@
 <a href="https://github.com/yywangvr" >
   <i class="fa fa-github"> </i>
 </a>
-<a href=" https://www.linkedin.com/in/yuyang01/" >
+<a href=" https://www.linkedin.com/in/yywangvr/" >
  <i class="fa fa-linkedin" aria-hidden="true"></i>
 </a>
 <a href="https://twitter.com/yyuwang_" >
@@ -65,9 +65,12 @@
 ##<small>Research interests</small>
 <font size=2>
 
-- Cybersickness in virtual reality
-- Computer-human interaction
-- Cognitive systems
+- Reduction of cybersickness by designing new navigation interface
+- Customized interaction by involving human factors from verbal or physiological feedback  
+- Multi-sensory VR interaction based on cognitive systems and affective computing
+- Multiphysics modeling and simulation based on numerical methods
+
+Research methodology relies on `theoretical inference/simulation` and `user study` supported by statistics, machine/deep learning, control theory and nummerical modeling, *etc.*.
 
 </font>
 
@@ -139,6 +142,7 @@
 <font size=2>
 - __National scholarship from the Ministry of Education of the PRC__
 </font>
+
 ----
 
 
@@ -147,6 +151,7 @@
 ##<small>Community service</small>
 <font size=2>
 
+- Organizer of BoF session, "Towards real-time evaluation of cyber-sickness in VR", April 2021, IEEE VR,      [Online](https://ieeevr.org/2021/program/bofs/)
 - Reviewer of international conferences: IEEE VR, IEEE ISMAR, ACM VRST
 - Reviewer of international journals: IEEE Transactions on Visualization and Computer Graphics, Textile Research Journal, Industria Textila Journal
 
@@ -157,7 +162,6 @@
 ##<small>Invited talk</small>
 <font size=2>
 	
-- Towards real-time evaluation of cyber-sickness in VR. April 2021, IEEE VR, Session organizer for this birds of a feather (BoF), [Online](https://ieeevr.org/2021/program/bofs/)
 - Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
 
@@ -173,8 +177,9 @@
 - AI programming relying mainly on Tensorflow and Keras
 
 </font>
-----
 
+
+----
 
 
 ##<small>Hobbies</small>

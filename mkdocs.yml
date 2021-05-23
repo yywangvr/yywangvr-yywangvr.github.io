@@ -1,4 +1,7 @@
 site_name: Yuyang WANG
+nav:
+    - Home: index.md
+    - Projects: project.md
 
 # 主题切换的方法：
 # （1） conda install -c conda-forge mkdocs-bootswatch
