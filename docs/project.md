@@ -31,7 +31,7 @@ Y. Wang, J.-R. Chardonnet, and F. Merienne, “Design of a Semiautomatic Travel 
 
 ##<small>Classification of dyeing type</small>
 
-This is GUI software developed for a textile company. The existing approach in this company relies on workers to distinguish different types of dyeing and finishing fabrics with microscope images, which is inefficient. The classification algorithm can automatically recognize the fabric type with more efficiency. The source code is written in Python (OpenCV for image processing, Scikit-learn for classification) and then compile to .exe file. 
+This is GUI software developed for a textile company. The existing approach in this company relies on workers to distinguish different types of dyeing and finishing fabrics with microscope images, which is inefficient. The classification algorithm can automatically recognize the fabric type with more efficiency. The source code is written in Python (OpenCV for image processing, Scikit-learn for classification) and then compiled to .exe file. 
 
 <div align="center">
 <img src="/media/fiberClassification.jpg" width="600" height="auto">
