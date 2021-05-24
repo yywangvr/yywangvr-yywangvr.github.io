@@ -3,6 +3,14 @@
 My research experience focuses primarily on theoretical contributions, and I show selected demos here, more coming soon...
 
 
+##<small>Cybersickness prediction with human factors</small> 
+[1] Y. Wang, J.-R. Chardonnet, F. Merienne, and J. Ovtcharova, “Using Fuzzy Logic to Involve Individual Differences for Predicting Cybersickness during VR Navigation,” in 2021 IEEE VR, Mar. 2021, pp. 373–381.
+<div align="center">
+<img src="/media/prediction.jpg" width="600" height="auto">
+</div>
+
+----
+
 
 
 ##<small>VR sickness prediction with LSTM</small> 
