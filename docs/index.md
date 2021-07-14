@@ -1,14 +1,24 @@
 
 
-<!-- 设置分栏的方法来自于：https://www.v2ex.com/t/132636 -->
+<!-- 设置分栏的方法来自于：https://www.v2ex.com/t/132636 
+设置图片边框：https://blog.csdn.net/ProgramChangesWorld/article/details/51702679
+-->
 
 <style type="text/css">
-	img{
+	.image1{
 		border-radius: 100%;
 		overflow: hidden;
 		width: 150px;
 	}
+	
+	.image2{
+           width:210px; 
+           overflow: hidden; 
+           border-radius:20%; 
+	}
+	
 </style>
+	
 
 <!-- 注释
 <div  align="right"> 
@@ -35,8 +45,9 @@
    </br>		
 </div>
 
-<div style="float:right">	
-<img src="./media/id.jpg" width="" height="">
+
+<div style="float:right">
+	<img class ="image1" src="./media/id.jpg" width="" height="">
 </div>
 
 </div>
@@ -56,7 +67,7 @@
 -->
 
 <br>
-<br>I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized navigation techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
+<br>I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized interaction techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
 
 
 
@@ -66,11 +77,12 @@
 <font size=2>
 
 - Reduction of cybersickness by designing new navigation interface
-- Customized interaction by involving human factors from verbal or physiological feedback  
+- Customized computer-human interaction (CHI) by involving human factors from verbal feedback or physiological signals 
 - Multi-sensory VR interaction based on cognitive systems and affective computing
+- Evaluation of user experience during CHI process
 - Multiphysics modeling and simulation based on numerical methods
 
-Research methodology relies on `theoretical inference/simulation` and `user study` supported by statistics, machine/deep learning, control theory and nummerical modeling, *etc.*.
+Research methodology relies on `theoretical inference/simulation` and `user study` supported by statistics, signal processing, machine/deep learning, control theory and numerical modeling, *etc.*.
 
 </font>
 
@@ -103,9 +115,9 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 - __Master on numerical methods in engineering__
 
 - International Centre for Numerical Methods in Engineering ([CIMNE](https://www.cimne.com)), [Polytechnic University of Catalonia](https://www.upc.edu/en/homepage), Spain
-- Numerical methods including finite element method, advanced discretation methods, numerical methods for PDEs, domain decomposition and large scale computing, *etc.*
+- Numerical methods including finite element method, advanced discretization methods, numerical methods for PDEs, domain decomposition and large scale computing, *etc.*
 - Applications focus on computational structural mechanics and dynamics, continuum mechanics, fluid mechanics and dynamics, forming processes and electromagnetism, *etc.*
-- Thesis: Development of a numberical model for the transport of dust 
+- Thesis: Development of a numerical model for the transport of dust, [file in PDF](/media/masterThesis.pdf) 
 
 </font>
 
@@ -134,7 +146,7 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 
 `July 2015 `
 <font size=2>
-- __Excellent Graduates of Soochow University, China__
+- __Excellent Graduates of Soochow University__
 </font>
 
 
@@ -162,14 +174,21 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 ##<small>Invited talk</small>
 <font size=2>
 	
-- Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China
+- Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China, [Online](http://www.hfut.edu.cn/info/1036/6935.htm)
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
 
 </font>
 
 ----
 
+
+<div style="float:right">
+	<img class="image2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yywangvr&layout=compact&hide_border=true&langs_count=10">
+</div>
+
 ##<small>Computer skills</small>
+
+
 <font size=2>
 
 - Language: C# (Unity3D), Python, Matlab, C++, Latex 
@@ -178,8 +197,8 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 
 </font>
 
+---
 
-----
 
 
 ##<small>Hobbies</small>
