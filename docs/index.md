@@ -54,7 +54,7 @@
 
 
 <!-- 注释
-[alwyuyang (at) gmail (dot) com](mailto:alwyuyang@gmail.com)
+[wyuyang (at) hotmail (dot) com](mailto:wyuyang@hotmail.com)
 <a href="https://github.com/yywangvr" >
   <i class="fa fa-github"> </i>
 </a>
