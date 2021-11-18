@@ -90,13 +90,13 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 
 
 ##<small>Education</small>
-`November 2017 - Now `
+`November 2017 - October 2021 `
 <font size=2>
-- __PhD candidate__
+- __PhD__
 
 - [Image institute](http://institutimage.ensam.eu/homepage-institut-image-102267.kjsp?RH=1417091979616&RF=1417092040212) , [Arts et metiers institute of technology](https://artsetmetiers.fr), France
 - Keywords: virtual reality (VR), navigation/locomotion, interaction, cybersickness, cognitive workload, subjective evaluation, optimal control, data-driven modeling, deep learning
-- Thesis: Intelligent navigation in virtual reality (Defense expected before October 2021)
+- Thesis: Intelligent navigation in virtual reality (defended: [video](https://youtu.be/JGA4uBs61dc))
 
 </font>
 
@@ -174,6 +174,7 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 ##<small>Invited talk</small>
 <font size=2>
 	
+- Intelligent naivgation in virtual reality. November 2021, ParisTech Elite Institute of Technology at Shanghai Jiao Tong University,  China	
 - Development of navigation techniques in virtual reality: towards customized interaction. December 2020, Hefei University of Technology, China, [Online](http://www.hfut.edu.cn/info/1036/6935.htm)
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
 
