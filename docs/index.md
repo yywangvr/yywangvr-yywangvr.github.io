@@ -31,7 +31,7 @@
 
 <div>
 <div style="float:left">
-	<a href="mailto:alwyuyang@gmail.com">alwyuyang (at) gmail (dot) com</a>
+	<a href="mailto:wyuyang@hotmail.com">wyuyang (at) hotmail (dot) com</a>
 	<br>
 	<a href="https://github.com/yywangvr" >
 	  <i class="fa fa-github"> </i>
@@ -67,7 +67,7 @@
 -->
 
 <br>
-<br>I am a Ph.D. student with diverse background from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized interaction techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
+<br>I am a Ph.D. in *Computer and Signal Processing* with diverse academic background accumulated from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized interaction techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
 
 
 
@@ -163,9 +163,13 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 ##<small>Community service</small>
 <font size=2>
 
-- Organizer of BoF session, "Towards real-time evaluation of cyber-sickness in VR", April 2021, IEEE VR,      [Online](https://ieeevr.org/2021/program/bofs/)
-- Reviewer of international conferences: IEEE VR, IEEE ISMAR, ACM VRST
-- Reviewer of international journals: IEEE Transactions on Visualization and Computer Graphics, Textile Research Journal, Industria Textila Journal
+- Organizers or chairs
+    - Organizer of 2022 IEEE VR Workshop on Datasets for Developing Intelligent XR Applications (Data4XR), [online](https://ieeevr.org/2022/contribute/workshoppapers/#Data4XR)
+    - Organizer of BoF session, "Towards real-time evaluation of cyber-sickness in VR", April 2021, IEEE VR,        [online](https://ieeevr.org/2021/program/bofs/)
+
+- Reviewers
+    - Reviewer of international conferences: IEEE VR, IEEE ISMAR, ACM VRST
+    - Reviewer of international journals: IEEE Transactions on Visualization and Computer Graphics, Textile Research Journal, Industria Textila Journal
 
 </font>
 
