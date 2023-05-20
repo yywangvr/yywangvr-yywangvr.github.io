@@ -76,17 +76,27 @@
 ##<small>Research interests</small>
 <font size=2>
 
-- Reduction of cybersickness by designing new navigation interface
-- Customized computer-human interaction (CHI) by involving human factors from verbal feedback or physiological signals 
-- Multi-sensory VR interaction based on cognitive systems and affective computing
-- Evaluation of user experience during CHI process
-- Multiphysics modeling and simulation based on numerical methods
+- Mitigation and prediction of motion sickness (or cybersickness) in virtual reality (P.S., with the help of AI methods) 
+- Neural mechanism behind user perception and sensory (P.S., Computational neuroscience, Reinforcement learning)
+- Multi-sensory VR interaction design and affective computing (P.S.,Cognitive systems)
+- Multiphysics modeling and simulation based on numerical methods (P.S., Mathematical and physical equations, phyics-driven methods)
 
 Research methodology relies on `theoretical inference/simulation` and `user study` supported by statistics, signal processing, machine/deep learning, control theory and numerical modeling, *etc.*.
 
 </font>
 
 ----
+
+##<small>Working experience</small>
+`March 2022 - now`
+<font size=2>
+- __Postdoctoral researcher__
+
+- Computational Media and Arts, Information Hub, [Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn), China
+- Advisor: Prof. [Pan Hui](https://cse.hkust.edu.hk/~panhui/index.html), IEEE Fellow, member of Academia Europaea
+- Keywords: XR, computer-human interaction
+
+</font>
 
 
 ##<small>Education</small>
@@ -103,7 +113,7 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 
 `October 2019 - September 2020`
 <font size=2>
-- __Visiting PhD student__
+- __Visiting PhD scholar__
 
 - Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany
 - Keywords: VR, interaction, fuzzy logic, user modelling, human factors
@@ -117,7 +127,7 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 - International Centre for Numerical Methods in Engineering ([CIMNE](https://www.cimne.com)), [Polytechnic University of Catalonia](https://www.upc.edu/en/homepage), Spain
 - Numerical methods including finite element method, advanced discretization methods, numerical methods for PDEs, domain decomposition and large scale computing, *etc.*
 - Applications focus on computational structural mechanics and dynamics, continuum mechanics, fluid mechanics and dynamics, forming processes and electromagnetism, *etc.*
-- Thesis: Development of a numerical model for the transport of dust, [file in PDF](/media/masterThesis.pdf) 
+- Thesis: Development of a numerical model for the transport of dust, [file in PDF](/media/yuyangMasterThesis.pdf) 
 
 </font>
 
