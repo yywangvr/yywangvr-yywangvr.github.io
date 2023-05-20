@@ -76,10 +76,10 @@
 ##<small>Research interests</small>
 <font size=2>
 
-- Mitigation and prediction of motion sickness (or cybersickness) in virtual reality (P.S., with the help of AI methods) 
-- Neural mechanism behind user perception and sensory (P.S., Computational neuroscience, Reinforcement learning)
-- Multi-sensory VR interaction design and affective computing (P.S.,Cognitive systems)
-- Multiphysics modeling and simulation based on numerical methods (P.S., Mathematical and physical equations, phyics-driven methods)
+- Mitigation and prediction of motion sickness (or cybersickness) in virtual reality (P.S., with the help of A.I. methods) 
+- The neural mechanism behind user perception and sensory (P.S., Computational neuroscience, Reinforcement learning)
+- Multi-sensory VR interaction design and affective computing (P.S., Cognitive systems)
+- Multiphysics modeling and simulation based on numerical methods (P.S., Mathematical and physical equations, physics-driven methods)
 
 Research methodology relies on `theoretical inference/simulation` and `user study` supported by statistics, signal processing, machine/deep learning, control theory and numerical modeling, *etc.*.
 
