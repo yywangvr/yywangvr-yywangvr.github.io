@@ -77,7 +77,7 @@
 <font size=2>
 
 - Mitigation and prediction of motion sickness (or cybersickness) in virtual reality (P.S., with the help of A.I. methods) 
-- The neural mechanism behind user perception and sensory (P.S., Computational neuroscience, Reinforcement learning)
+- The neural mechanism behind user perception and sensory (P.S., Computational neuroscience, reinforcement learning)
 - Multi-sensory VR interaction design and affective computing (P.S., Cognitive systems)
 - Multiphysics modeling and simulation based on numerical methods (P.S., Mathematical and physical equations, physics-driven methods)
 
