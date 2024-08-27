@@ -47,7 +47,7 @@
 
 
 <div style="float:right">
-	<img class ="image1" src="./media/id.jpg" width="" height="">
+	<img class ="image1" src="./media/id2.jpg" width="" height="">
 </div>
 
 </div>
@@ -67,7 +67,7 @@
 -->
 
 <br>
-<br>I am a Ph.D. in *Computer and Signal Processing* with diverse academic background accumulated from Bachelor to Ph.D. study, enabling me to perform interdisciplinary research. My research activities focus on customized interaction techniques in virtual reality by involving human factors (cybersickness, emotion, *etc.*).
+<br>Dr. Yuyang Wang is an Assistant Professor at Computational Media and Art (CMA) at the Hong Kong University of Science and Technology (Guangzhou) Information Hub, after concluding postdoc research. He received a PhD in computer science from the Arts et Métiers Institute of Technology, ParisTech in France. Under the framework of the French‐German Institute for Industry of the Future, he was a visiting researcher at the Karlsruhe Institute of Technology in Germany. In addition, he holds a master's degree in numerical methods in engineering from the International Center for Numerical Methods (CIMNE), the Polytechnic University of Catalonia in Spain. He consistently publishes works and serves as a reviewer in premier journals and conferences in his research area, such as Virtual Reality (Springer), International Journal of Human-Computer Studies, IEEE VR, IEEE ISMAR, et al.
 
 
 
@@ -88,13 +88,31 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 ----
 
 ##<small>Working experience</small>
-`March 2022 - now`
+`March 2024 - Now`
+<font size=2>
+- __Assistant professor__
+
+- Computational Media and Arts, Information Hub, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn), China
+- XR education, Data-driven methods (AI), HCI perception
+
+
+`March 2022 - March 2024`
 <font size=2>
 - __Postdoctoral researcher__
 
-- Computational Media and Arts, Information Hub, [Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn), China
-- Advisor: Prof. [Pan Hui](https://cse.hkust.edu.hk/~panhui/index.html), IEEE Fellow, member of Academia Europaea
-- Keywords: XR, computer-human interaction
+- Computational Media and Arts, Information Hub, [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn), China
+- Advisor: Prof.Pan Hui, IEEE Fellow, member of Academia Europaea
+- XR, computer-human interaction
+
+</font>
+
+
+`October 2019 - September 2020`
+<font size=2>
+- __Visiting scholar__
+
+- Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany
+- VR, interaction, fuzzy logic, user modelling, human factors
 
 </font>
 
@@ -105,20 +123,12 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 - __PhD__
 
 - [Image institute](http://institutimage.ensam.eu/homepage-institut-image-102267.kjsp?RH=1417091979616&RF=1417092040212) , [Arts et metiers institute of technology](https://artsetmetiers.fr), France
-- Keywords: virtual reality (VR), navigation/locomotion, interaction, cybersickness, cognitive workload, subjective evaluation, optimal control, data-driven modeling, deep learning
+- Virtual reality (VR), navigation/locomotion, interaction, cybersickness, cognitive workload, subjective evaluation, optimal control, data-driven modeling, deep learning
 - Thesis: Intelligent navigation in virtual reality (defended: [video](https://youtu.be/JGA4uBs61dc))
 
 </font>
 
 
-`October 2019 - September 2020`
-<font size=2>
-- __Visiting PhD scholar__
-
-- Institute for Information Management in Engineering ([IMI](https://www.imi.kit.edu)), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php), Germany
-- Keywords: VR, interaction, fuzzy logic, user modelling, human factors
-
-</font>
 
 `September 2015 - July 2017`
 <font size=2>
@@ -135,8 +145,8 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 <font size=2>
 -  __Bachelor of non-woven materials in engineering, *summa cum laude*__
 
-- College of Textile and Clothing Engineering, [Soochow University](https://www.suda.edu.cn/eng/), China
-- Keywords: engineering mechanics, polymeric chemistry & physics, textile materials, polymer structure & properties, technology of synthetic fibers
+- College of Textile and Clothing Engineering, Soochow University, China
+- Engineering mechanics, polymeric chemistry & physics, textile materials, polymer structure & properties, synthetic fibers
 - Thesis: Intelligent wearable devices for textile sensory evaluation
 
 </font>
@@ -175,17 +185,18 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 
 `Organizers or chairs`
 
-- Organizer of 2022 IEEE VR Workshop on Datasets for Developing Intelligent XR Applications (Data4XR), [online](https://ieeevr.org/2022/contribute/workshoppapers/#Data4XR)
+- Organizer IEEE VR Workshop on Datasets for Developing Intelligent XR Applications (Data4XR) since 2022, [online](https://sites.google.com/view/ieee-vr-data4xr/)
 - Organizer of BoF session, "Towards real-time evaluation of cyber-sickness in VR", April 2021, IEEE VR, [online](https://ieeevr.org/2021/program/bofs/)
 
 `Reviewers`
 
 - Reviewer of international conferences: IEEE VR, IEEE ISMAR, ACM VRST
-- Reviewer of international journals: IEEE Transactions on Visualization and Computer Graphics, Textile Research Journal, Industria Textila Journal
+- Reviewer of international journals: IEEE Transactions on Visualization and Computer Graphics, IJHCS, IJHCI
 
 </font>
 
 ----
+<!-- 
 
 ##<small>Invited talk</small>
 <font size=2>
@@ -195,8 +206,7 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 - Introduction to virtual reality. August 2018, the 2nd International Youth Innovation Conference, China
 
 </font>
-
-----
+--->
 
 
 <div style="float:right">
@@ -210,14 +220,14 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 
 - Language: C# (Unity3D), Python, Matlab, C++, Latex 
 - Parallel/distributed computing framework using OpenMP, Open MPI, [Ray](https://ray.io) 
-- AI programming relying mainly on Tensorflow and Keras
+- AI programming framework
 
 </font>
 
 ---
 
 
-
+<!-- 
 ##<small>Hobbies</small>
 <font size=2>
 
@@ -225,8 +235,8 @@ Research methodology relies on `theoretical inference/simulation` and `user stud
 - Piano during confinement of Covid-19
 
 </font>
+--->
 
-----
 
 ##<small>Publications</small>
 <script src="https://bibbase.org/service/mendeley/4b66b327-35ad-3956-a9a2-307331dd9988?jsonp=1?&owner=Wang,Yuyang&theme=default&fullnames=0">
